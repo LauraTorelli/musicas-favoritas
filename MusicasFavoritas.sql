@@ -1,0 +1,22 @@
+INSERT INTO Musicas (ID, Musica, Artista, Duracao, Idioma)
+VALUES
+(1, 'Young And Beautiful', ' Lana Del Rey ', '00:04:00', 'Inglês'),
+(2, 'West Coast ingles', 'Lana Del Rey ', '00:04:00', 'Inglês'),
+(3, 'The Other Woman', 'Lana Del Rey', '00:03:00', 'Inglês'),
+(4, 'Margaret', 'Lana Del Rey', '00:05:00', 'Inglês'),
+(5, 'Style', 'Taylor Swift', '00:04:00', 'Inglês'),
+(6, 'New Romantics', 'Taylor Swift', '00:04:00', 'Inglês'),
+(7, 'Better Than Revenge', 'Taylor Swift', '00:04:00', 'Inglês'),
+(8, 'You're On Your Own, Kid', 'Taylor Swift', '00:03:00', 'Inglês'),
+(9, 'Vigilante Shit', 'Taylor Swift', '00:03:00', 'Inglês'),
+(10, 'The Great War', 'Taylor Swift', '00:04:00', 'Inglês'),
+(11, 'Mr. Perfectly Fine', 'Taylor Swift', '00:05:00', 'Inglês'),
+(12, 'champagne problems', 'Taylor Swift', '00:04:00', 'Inglês'),
+(13, 'Coraline', 'Maneskin', '00:05:00', 'Inglês'),
+(14, 'Valentine', 'Maneskin', '00:03:00', 'Inglês'),
+(15, 'Black Friday', 'Tom Odell', '00:04:00', 'Inglês'),
+(16, 'Gameboy', 'Jão', '00:03:00', 'Português'),
+(17, 'Santo', 'Jão', '00:03:00', 'Português'),
+(18, 'Tempos de Gloria', 'Jão', '00:03:00', 'Português'),
+(19, 'O Cravo e a Rosa', 'Kamaitachi', '00:03:00', 'Português'),
+(20, 'As Cegas no Monte', 'Kamaitachi', '00:03:00', 'Português');
